@@ -4,4 +4,4 @@ This page is created to change the way people consume things, the basis will be 
 
 | S.No.| Things     |
 |------|----------  |
-| 1.   | 1st update |
+| 1.   | [1st update](https://github.com/jackansley1304/iUpdates/blob/Edits/things-you-dont-need.md) |
