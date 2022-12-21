@@ -8,6 +8,9 @@ Here are the Top 7 Useless features of smartphones.
 
 1. More Cameras
 
+
+![Screenshot 2022-10-05 234100](https://user-images.githubusercontent.com/25508614/208818109-83bf5939-35f1-4cc9-b216-ff37ccb6e1db.png)
+
 🤦‍♂️ We still don’t understand why companies drop phones with Macro/depth cameras, even the high-end smartphones come with a macro or depth camera which do not have any use.
 
 The companies should really stop giving those 2MP camera just to keep hyping that they launched a phone with more cameras.
